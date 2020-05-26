@@ -2,3 +2,4 @@ AP
 AIandML
 Data Science
 Basics of Python Programming
+Python Programming is easy and simple to learn
